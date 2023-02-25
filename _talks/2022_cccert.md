@@ -1,8 +1,8 @@
 ---
 title: "CC-Cert: A Probabilistic Approach to Certify General Robustness of Neural Networks"
 collection: talks
-type: "Talk"
-#permalink: /talks/2022_cccert
+type: "Conference talk"
+permalink: /talks/2022_cccert/
 venue: "AAAI-2022"
 date: 2022-Feb-26
 location: "Virtual conference"

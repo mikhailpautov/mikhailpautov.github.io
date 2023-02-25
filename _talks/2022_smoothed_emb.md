@@ -1,8 +1,8 @@
 ---
 title: "Smoothed Embeddings for Certified Few-Shot Learning"
 collection: talks
-type: "Talk"
-#permalink: /talks/2022_smoothed_emb
+type: "Conference talk"
+permalink: /talks/2022_smoothed_emb/
 venue: "ISP RAS open conference"
 date: 2022-Dec-02
 location: "Moscow, Russia"
